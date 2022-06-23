@@ -1,0 +1,3 @@
+/home/kacper/Dokumenty/engineering_project/cmake-build-debug/CMakeFiles/engineering_project.dir
+/home/kacper/Dokumenty/engineering_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kacper/Dokumenty/engineering_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
